@@ -10,7 +10,7 @@ This project uses a **Convolutional Neural Network (CNN)** to classify chest X-r
 ## 🏗️ Methods & Models  
 - **Preprocessing**: Resizing, normalization, augmentation  
 - **Model Used**: CNN (Convolutional Neural Network)  
-- **Libraries**: TensorFlow, Keras, OpenCV, Matplotlib  
+- **Libraries**: TensorFlow, Keras, OpenCV, Matplotlib, os
 
 ## 🔍 Key Findings  
 - CNN outperformed traditional ML models.  
