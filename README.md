@@ -4,7 +4,7 @@
 This project uses a **Convolutional Neural Network (CNN)** to classify chest X-ray images as **normal or pneumonia**. Achieved **94% accuracy** using deep learning.  
 
 ## 🗂️ Dataset  
-- Source: **[Chest X-ray Dataset (Kaggle)](https://www.kaggle.com/datasets)**  
+- Source: **[Chest X-ray Dataset (Kaggle)]([https://www.kaggle.com/datasets](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia))**  
 - Data Size: **5,800+ labeled images** (Normal/Pneumonia)  
 
 ## 🏗️ Methods & Models  
