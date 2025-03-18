@@ -30,7 +30,7 @@ This project uses the following Python libraries:
 - Matplotlib
   
 To install these dependencies, use:
-pip install -r requirements.txt
+```pip install -r requirements.txt  ```
 
 3. **Running the Jupyter Notebook** :
 Once you've cloned the repo and installed the dependencies, you can open and run the Jupyter Notebook.
