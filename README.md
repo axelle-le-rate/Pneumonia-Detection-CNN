@@ -43,7 +43,7 @@ jupyter notebook
 Open the Pneumonia-Detection-CNN.ipynb file, and run all the cells in the notebook.
 
 ## ⚙️ Technologies Used
-Python · TensorFlow · Keras · OpenCV · Matplotlib
+Python · TensorFlow · Keras · OpenCV · Matplotlib · os
 
 ## 📌 Future Improvements
 Test different CNN architectures (ResNet, MobileNet).
