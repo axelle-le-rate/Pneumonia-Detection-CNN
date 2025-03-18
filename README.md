@@ -28,7 +28,7 @@ This project uses the following Python libraries:
 - Keras
 - OpenCV
 - Matplotlib
-- 
+  
 To install these dependencies, use:
 pip install -r requirements.txt
 
