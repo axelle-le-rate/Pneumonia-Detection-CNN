@@ -48,3 +48,6 @@ Python · TensorFlow · Keras · OpenCV · Matplotlib · os
 ## 📌 Future Improvements
 Test different CNN architectures (ResNet, MobileNet).
 Optimize model for real-time medical applications.
+
+## 📝 Note on ChatGPT Assistance
+During the development and debugging phases of this project, I referenced valuable conversations with ChatGPT that helped me resolve coding issues and improve the overall solution. Unfortunately, these conversations are no longer accessible due to platform limitations, so the specific details cannot be provided here. However, the guidance and debugging steps from those interactions were integral to the project.
