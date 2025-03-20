@@ -3,6 +3,9 @@
 ## 📌 Project Overview  
 This project uses a **Convolutional Neural Network (CNN)** to classify chest X-ray images as **normal or pneumonia**. Achieved **94% accuracy** using deep learning.  
 
+📄 **View the Full Deep Learning Analysis Report:**  
+[Pneumonia-Detector-Using-CNNs-1.ipynb](Pneumonia-Detector-Using-CNNs-1.ipynb)  
+
 ## 🗂️ Dataset  
 - Source: **[Chest X-ray Dataset (Kaggle)](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)**  
 - Data Size: **5,800+ labeled images** (Normal/Pneumonia)  
@@ -20,7 +23,7 @@ This project uses a **Convolutional Neural Network (CNN)** to classify chest X-r
 
 1. **Clone the repo**:  
    ```sh
-   git clone https://github.com/YourGitHubUsername/Pneumonia-Detection-CNN.git
+   git clone https://github.com/axelle-le-rate/Pneumonia-Detection-CNN.git
    
 2. **Install dependencies**:
 This project uses the following Python libraries:
@@ -40,7 +43,7 @@ Once you've cloned the repo and installed the dependencies, you can open and run
  ```sh
 jupyter notebook
  ```
-Open the Pneumonia-Detection-CNN.ipynb file, and run all the cells in the notebook.
+Open the Pneumonia-Detector-Using-CNNs-1.ipynb file, and run all the cells in the notebook.
 
 ## ⚙️ Technologies Used
 Python · TensorFlow · Keras · OpenCV · Matplotlib · os
